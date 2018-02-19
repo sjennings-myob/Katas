@@ -42,3 +42,7 @@ log.txt
 *.sdf
 packages/
 TestResults/
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
